@@ -24,7 +24,7 @@ The topics of interest include, but are not limited to:
 - ***Analysis***: methods to probe commonsense knowledge from NLP models; methods to understand reasoning mechanisms of existing methods; methods that identify limitations of existing methods for AI applications (including but not limited to NLP, CV and robotics) due to lack of commonsense knowledge. 
 
 
-## Submissions
+## Submission Formats
 
 We solicit two categories of papers:
 - ***Workshop papers***: describing new, previously unpublished research in this field. The submissions should follow [***the AKBC 2021 style guidelines***](https://github.com/akbc-conference/style-files/blob/master/akbc-latex.zip?raw=true){: target="_blank"}. and contain up to 10 pages, excluding references and appendices (which should be put after references).  Submissions will be subject to a single-blind review process (i.e. they need not be anonymized). Final versions of accepted papers will be allowed 1 additional page of content so that reviewer comments can be taken into account. 

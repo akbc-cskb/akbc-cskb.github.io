@@ -12,10 +12,10 @@
     "relUrl": "/cfp#topics-of-interest"
   },"2": {
     "doc": "Call for papers",
-    "title": "Submissions",
+    "title": "Submission Formats",
     "content": "We solicit two categories of papers: . | Workshop papers: describing new, previously unpublished research in this field. The submissions should follow the AKBC 2021 style guidelines. and contain up to 10 pages, excluding references and appendices (which should be put after references). Submissions will be subject to a single-blind review process (i.e. they need not be anonymized). Final versions of accepted papers will be allowed 1 additional page of content so that reviewer comments can be taken into account. | Published papers: papers on topics relevant to the workshop theme, previously published at NLP or ML conferences. These papers can be submitted in their original formats. Submissions will be reviewed for fit to the workshop topics. | . In both categories, accepted papers will be published on the workshop website (note that the workshop is non-archival), and will be presented at the workshop either as a talk or a poster. ",
-    "url": "http://localhost:4000/cfp#submissions",
-    "relUrl": "/cfp#submissions"
+    "url": "http://localhost:4000/cfp#submission-formats",
+    "relUrl": "/cfp#submission-formats"
   },"3": {
     "doc": "Home",
     "title": "Workshop on Common-Sense Knowledge Bases at AKBC’21",

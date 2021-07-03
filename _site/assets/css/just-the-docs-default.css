@@ -350,7 +350,7 @@ h6 {
   margin-bottom: 1em;
   font-weight: 500;
   line-height: 1.25;
-  color: #183385; }
+  color: #2869e6; }
 
 p {
   margin-top: 1em;
@@ -493,7 +493,7 @@ hr {
   align-items: center;
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
-  color: #183385;
+  color: #2869e6;
   font-size: 18px !important; }
   @media (min-width: 50rem) {
     .site-title {
