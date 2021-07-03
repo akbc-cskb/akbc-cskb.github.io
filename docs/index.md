@@ -11,7 +11,7 @@ toc_list: true
 
  
  
-# The 1st Workshop on Common-Sense Knowledge Bases (CSKB) at AKBC'21
+# The 1st Workshop on Common-Sense Knowledge Bases (CSKB) at AKBC 2021
 {: .fs-8 .fw-800 .text-green-300 .no_toc style="font-family: 'Agency FB Bold';"}
  
 
