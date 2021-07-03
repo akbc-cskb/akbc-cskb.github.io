@@ -40,12 +40,12 @@ Recent advances in large pre-trained language models have shown that machines ca
 - Workshop – ***October 7, 2021***
 
 
-## Organizing Committee
+## Organizers
 
-- [***Vered Shwartz***](){: target="_blank"}, Allen Institute for AI (AI2) and the University of Washington
-- [***Antoine Bosselut***](){: target="_blank"}, Allen Institute for AI (AI2) and Stanford University
-- [***Xiang Lorraine Li***](){: target="_blank"}, UMass Amherst
-- [***Bill Yuchen Lin***](){: target="_blank"}, University of Southern California
+- [***Vered Shwartz***](){: target="_blank"}, Allen Institute for AI (AI2) and the University of Washington.
+- [***Antoine Bosselut***](){: target="_blank"}, Allen Institute for AI (AI2) and Stanford University.
+- [***Xiang Lorraine Li***](){: target="_blank"}, UMass Amherst.
+- [***Bill Yuchen Lin***](){: target="_blank"}, University of Southern California.
 
 
 

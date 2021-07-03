@@ -1,20 +1,18 @@
 ---
 layout: default
-title: Program
-nav_order: 3
-description: "Call for papers | Workshop on Common-Sense Knowledge Bases at AKBC 2021"
+title: Accapted Papers & Program
+nav_order: 5
+description: "Program | Workshop on Common-Sense Knowledge Bases at AKBC 2021"
 permalink: /program
 last_modified_date: July 5th 2021
 ---
 
-# Accepted Papers and Program
-{: .text-green-300}
-
---- 
-
+ 
 ## Accepted Papers
+{: .fs-8 .fw-800 .text-green-300 }
 TBD
 
-## Program
+## Workshop Program
+{: .fs-8 .fw-800 .text-green-300 }
 
 TBD

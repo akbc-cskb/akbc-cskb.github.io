@@ -2,7 +2,7 @@ include: [".well-known"]
 remote_theme: pmarsceill/just-the-docs
 baseurl: "" # the subpath of your site, e.g. /blog
 color_scheme: cskb
-logo: "logo.png"
+logo: "images/logo.png"
 
 
 # Changes

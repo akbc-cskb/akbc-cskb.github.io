@@ -6,7 +6,7 @@ include: [".well-known"]
 theme: "just-the-docs"
 # remote_theme: pmarsceill/just-the-docs
 color_scheme: cskb
-logo: "logo.png"
+logo: "images/logo.png"
 
 # Changes
 title: Workshop on Common-Sense Knowledge Bases at AKBC 2021
