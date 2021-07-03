@@ -1,0 +1,74 @@
+{"0": {
+    "doc": "Call for papers",
+    "title": "Call for papers",
+    "content": ". ",
+    "url": "http://localhost:4000/cfp",
+    "relUrl": "/cfp"
+  },"1": {
+    "doc": "Call for papers",
+    "title": "Topics of Interest",
+    "content": "The topics of interest include, but are not limited to: . | Resources: acquiring commonsense knowledge (from text corpora, images, videos, pre-trained neural models, etc.); constructing and completing (semi-)structured CSKBs; consolidating CSKBs under unified schemas. | Benchmarks: designing challenging tasks and building datasets to evaluate models’ commonsense knowledge and reasoning abilities; designing new evaluation schemas and metrics for commonsense reasoning tasks, particularly for open-ended and generative tasks. | Methods: methods for commonsense reasoning tasks; methods that integrate CSKBs and neural models; methods that use CSKBs to improve the interpretability and explainability of neural models for commonsense reasoning and more. | Analysis: methods to probe commonsense knowledge from NLP models; methods to understand reasoning mechanisms of existing methods; methods that identify limitations of existing methods for AI applications (including but not limited to NLP, CV and robotics) due to lack of commonsense knowledge. | . ",
+    "url": "http://localhost:4000/cfp#topics-of-interest",
+    "relUrl": "/cfp#topics-of-interest"
+  },"2": {
+    "doc": "Call for papers",
+    "title": "Submissions",
+    "content": "We solicit two categories of papers: . | Workshop papers: describing new, previously unpublished research in this field. The submissions should follow the AKBC 2021 style guidelines. and contain up to 10 pages, excluding references and appendices (which should be put after references). Submissions will be subject to a single-blind review process (i.e. they need not be anonymized). Final versions of accepted papers will be allowed 1 additional page of content so that reviewer comments can be taken into account. | Published papers: papers on topics relevant to the workshop theme, previously published at NLP or ML conferences. These papers can be submitted in their original formats. Submissions will be reviewed for fit to the workshop topics. | . In both categories, accepted papers will be published on the workshop website (note that the workshop is non-archival), and will be presented at the workshop either as a talk or a poster. ",
+    "url": "http://localhost:4000/cfp#submissions",
+    "relUrl": "/cfp#submissions"
+  },"3": {
+    "doc": "Home",
+    "title": "Workshop on Common-Sense Knowledge Bases at AKBC’21",
+    "content": ". Recent advances in large pre-trained language models have shown that machines can directly learn large quantities of commonsense knowledge through self-supervised learning on raw text. However, they still fall short of human-like understanding capabilities: they make inconsistent predictions, learn to exploit spurious patterns, and fail to robustly apply learned knowledge to downstream applications. Consequently, the development and integration of unpaired, outside knowledge representation sources remains critically important to provide machine commonsense engines with scaffolding to learn structured reasoning. We organize this workshop to encourage discussion of current progress on building machines with commonsense knowledge and reasoning abilities, with special focus on commonsense knowledge bases (CSKBs). ",
+    "url": "http://localhost:4000/#workshop-on-common-sense-knowledge-bases-at-akbc21",
+    "relUrl": "/#workshop-on-common-sense-knowledge-bases-at-akbc21"
+  },"4": {
+    "doc": "Home",
+    "title": "Latest News",
+    "content": ". | July 1, 2021. | . ",
+    "url": "http://localhost:4000/#latest-news",
+    "relUrl": "/#latest-news"
+  },"5": {
+    "doc": "Home",
+    "title": "Important Dates",
+    "content": ". | All paper submissions due – August 5, 2021 | Notification of acceptance – Sep 10, 2021 | Camera-ready papers due – September 30, 2021 | Workshop – October 7, 2021 | . ",
+    "url": "http://localhost:4000/#important-dates",
+    "relUrl": "/#important-dates"
+  },"6": {
+    "doc": "Home",
+    "title": "Organizing Committee",
+    "content": ". | Vered Shwartz, Allen Institute for AI (AI2) and the University of Washington | Antoine Bosselut, Allen Institute for AI (AI2) and Stanford University | Xiang Lorraine Li, UMass Amherst | Bill Yuchen Lin, University of Southern California | . ",
+    "url": "http://localhost:4000/#organizing-committee",
+    "relUrl": "/#organizing-committee"
+  },"7": {
+    "doc": "Home",
+    "title": "Contact",
+    "content": "Please email to cskb-akbc21@googlegroups.com if you have any questions. ",
+    "url": "http://localhost:4000/#contact",
+    "relUrl": "/#contact"
+  },"8": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"9": {
+    "doc": "Program",
+    "title": "Accepted Papers and Program",
+    "content": ". ",
+    "url": "http://localhost:4000/program#accepted-papers-and-program",
+    "relUrl": "/program#accepted-papers-and-program"
+  },"10": {
+    "doc": "Program",
+    "title": "Accepted Papers",
+    "content": "TBD . ",
+    "url": "http://localhost:4000/program#accepted-papers",
+    "relUrl": "/program#accepted-papers"
+  },"11": {
+    "doc": "Program",
+    "title": "Program",
+    "content": "TBD . ",
+    "url": "http://localhost:4000/program",
+    "relUrl": "/program"
+  }
+}

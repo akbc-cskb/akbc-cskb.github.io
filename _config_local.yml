@@ -1,20 +1,24 @@
+# Local Setting
+baseurl: ""
+url: ""
 include: [".well-known"]
-remote_theme: pmarsceill/just-the-docs
-baseurl: "" # the subpath of your site, e.g. /blog
+# Theme
+theme: "just-the-docs"
+# remote_theme: pmarsceill/just-the-docs
 color_scheme: cskb
 logo: "logo.png"
-
 
 # Changes
 title: Workshop on Common-Sense Knowledge Bases at AKBC 2021
 email: cskb-akbc21@googlegroups.com
 description: >- # this means to ignore newlines until "baseurl:"
-  XCSR's project page. 
-baseurl: "/" # the subpath of your site, e.g. /blog
+  Workshop on Common-Sense Knowledge Bases at AKBC 2021
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://akbc-cskb.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: billyuchenlin
+twitter_username: billyuchenlin
 github_username:  akbc-cskb
 
+search_enabled: true
 # Footer content
 # appears at the bottom of every page's main content
 
@@ -26,7 +30,6 @@ back_to_top_text: 'Back to top'
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
-search_enabled: true
 search.button: true
 
 # # Footer "Edit this page on GitHub" link text
