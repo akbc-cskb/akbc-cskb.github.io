@@ -60,7 +60,7 @@ Recent advances in large pre-trained language models have shown that machines ca
   </summary>
   {: .fs-3 .fw-500 .text-blue-300}
 <table><td>
-Vered Shwartz is a postdoctoral researcher at the Allen Institute for AI (AI2) and the Paul G. Allen School of Computer Science \& Engineering at the University of Washington. She will join the Department of Computer Science at the University of British Columbia as an Assistant Professor in fall 2021. Her research interests include computational semantics and pragmatics, and commonsense reasoning. She co-organized the ACL 2018 Student Research Workshop, the SemEval 2018 shared task on hypernymy discovery, the AAAI 2020 Workshop on Reasoning for Complex Question Answering (Special Edition on Commonsense Reasoning), and the EMNLP 2020 workshop on Simple and Efficient NLP, and co-instructed the ACL 2020 tutorial on commonsense reasoning.
+Vered Shwartz is a postdoctoral researcher at the Allen Institute for AI (AI2) and the Paul G. Allen School of Computer Science & Engineering at the University of Washington. She will join the Department of Computer Science at the University of British Columbia as an Assistant Professor in fall 2021. Her research interests include computational semantics and pragmatics, and commonsense reasoning. She co-organized the ACL 2018 Student Research Workshop, the SemEval 2018 shared task on hypernymy discovery, the AAAI 2020 Workshop on Reasoning for Complex Question Answering (Special Edition on Commonsense Reasoning), and the EMNLP 2020 workshop on Simple and Efficient NLP, and co-instructed the ACL 2020 tutorial on commonsense reasoning.
 </td></table>
 </details> 
 
@@ -119,8 +119,14 @@ We solicit two categories of papers:
 In both categories, accepted papers will be published on the workshop website (note that the workshop is ***non-archival***{: .text-red-300}), and will be presented at the workshop either as a talk or a poster. 
 
 --- 
+<!-- 
+## Invited Talks and Panel Discussion
+{:.no_toc} -->
 
-## Invited Talks 
+
+![Speakers](images/speakers.png)
+
+## Invited Talks
 
 We’re excited to have the following keynote speakers at CSKB 2021:
 
@@ -140,6 +146,7 @@ We will also be holding a panel discussion with the invited speakers as well as 
 - [***Greg Durrett***](https://www.cs.utexas.edu/~gdurrett/){: target="_blank"}, UT Austin
 - [***Sameer Singh***](https://sameersingh.org/){: target="_blank"}, UC Irvine
 - [***Aida Nematzadeh***](http://www.aidanematzadeh.me/){: target="_blank"}, DeepMind
+
 
 ---
 
