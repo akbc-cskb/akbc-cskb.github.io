@@ -52,7 +52,7 @@ Recent advances in large pre-trained language models have shown that machines ca
 - [***Bill Yuchen Lin***](https://yuchenlin.xyz/){: target="_blank"}, University of Southern California. -->
 
 
- 
+![Organizers](images/ognzers.png)
  
 <details markdown="block">
   <summary>
