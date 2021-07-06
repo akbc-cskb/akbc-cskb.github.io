@@ -18,7 +18,7 @@ url: "https://akbc-cskb.github.io/" # the base hostname & protocol for your site
 twitter_username: billyuchenlin
 github_username:  akbc-cskb
 
-search_enabled: true
+search_enabled: false
 # Footer content
 # appears at the bottom of every page's main content
 
@@ -30,7 +30,7 @@ back_to_top_text: 'Back to top'
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
-search.button: true
+# search.button: true
 
 # # Footer "Edit this page on GitHub" link text
 # gh_edit_link: true # show or hide edit this page link
