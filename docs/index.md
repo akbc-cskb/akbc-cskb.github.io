@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: CSKB@AKBC21
 nav_order: 1
 description: "Workshop on Common-Sense Knowledge Bases at AKBC 2021"
 permalink: /
