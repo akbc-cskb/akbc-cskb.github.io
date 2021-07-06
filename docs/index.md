@@ -56,7 +56,7 @@ Recent advances in large pre-trained language models have shown that machines ca
  
 <details markdown="block">
   <summary>
-    <a href="https://vered1986.github.io/" target="_blank"><strong><em>Vered Shwartz</em></strong></a>, Allen Institute for AI (AI2) and the University of Washington.
+    <a href="https://vered1986.github.io/" target="_blank"><strong><em>Vered Shwartz</em></strong></a>, Allen Institute for AI (AI2) & the University of Washington.
   </summary>
   {: .fs-3 .fw-500 .text-blue-300}
 <table><td>
@@ -66,7 +66,7 @@ Vered Shwartz is a postdoctoral researcher at the Allen Institute for AI (AI2) a
 
 <details markdown="block">
   <summary>
-    <a href="https://atcbosselut.github.io/" target="_blank"><strong><em>Antoine Bosselut</em></strong></a>, Allen Institute for AI (AI2) and Stanford University.
+    <a href="https://atcbosselut.github.io/" target="_blank"><strong><em>Antoine Bosselut</em></strong></a>, Stanford University & EPFL.
   </summary>
   {: .fs-3 .fw-500 .text-blue-300}
 <table><td>
@@ -132,7 +132,7 @@ We’re excited to have the following keynote speakers at CSKB 2021:
 
 - [***Rachel Rudinger***](https://rudinger.github.io/){: target="_blank"}, University of Maryland
 - [***Sara Hooker***](https://www.sarahooker.me/){: target="_blank"}, Google Brain  
-- [***Maarten Sap***](https://homes.cs.washington.edu/~msap/){: target="_blank"}, Allen Institute for AI (AI2)
+- [***Maarten Sap***](https://homes.cs.washington.edu/~msap/){: target="_blank"}, Allen Institute for AI (AI2) & CMU
 - [***Xiang Ren***](http://ink-ron.usc.edu/xiangren/){: target="_blank"}, University of Southern California
 
 <!-- Abstracts will be added here. -->
