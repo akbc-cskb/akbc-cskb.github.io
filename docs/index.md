@@ -86,7 +86,7 @@ The topics of interest include, but are not limited to:
 - ***Analysis***{: .text-red-300}: methods to probe commonsense knowledge from NLP models; methods to understand reasoning mechanisms of existing methods; methods that identify limitations of existing methods for AI applications (including but not limited to NLP, CV and robotics) due to lack of commonsense knowledge. 
 
 
-### Submission Formats
+### Submission Guide
 {: .no_toc}
 We solicit two categories of papers:
 - ***Workshop papers***{: .text-red-300}: describing new, previously unpublished research in this field. The submissions should follow [***the AKBC 2021 style guidelines***](https://github.com/akbc-conference/style-files/blob/master/akbc-latex.zip?raw=true){: target="_blank"}. and contain up to 10 pages, excluding references and appendices (which should be put after references).  Submissions will be subject to a single-blind review process (i.e. they need not be anonymized). Final versions of accepted papers will be allowed 1 additional page of content so that reviewer comments can be taken into account. 
@@ -94,6 +94,8 @@ We solicit two categories of papers:
 - ***Published papers***{: .text-red-300}:  papers on topics relevant to the workshop theme, previously published at NLP or ML conferences. These papers can be submitted in their original formats. Submissions will be reviewed for fit to the workshop topics.
 
 In both categories, accepted papers will be published on the workshop website (note that the workshop is ***non-archival***{: .text-red-300}), and will be presented at the workshop either as a talk or a poster. 
+
+***Submission site:***{: .text-blue-100} [https://openreview.net/group?id=AKBC.ws/2021/Workshop/CSKB](https://openreview.net/group?id=AKBC.ws/2021/Workshop/CSKB){: target="_blank"}
 
 
 ---
