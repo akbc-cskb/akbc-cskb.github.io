@@ -42,6 +42,8 @@ Recent advances in large pre-trained language models have shown that machines ca
 - Camera-ready papers due – ***September 30, 2021***{: .text-red-300}
 - Workshop – ***October 7, 2021***{: .text-red-300}
 
+***All deadlines are 11.59 pm UTC -12h ("anywhere on Earth").***{: .text-blue-300}
+
 
 --- 
 <!-- 
