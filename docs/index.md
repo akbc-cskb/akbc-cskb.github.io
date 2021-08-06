@@ -40,7 +40,7 @@ Recent advances in large pre-trained language models have shown that machines ca
 ### Important Dates
 {: .no_toc}
 
-- All paper submissions due – ~~August 5~~ ***August 20, 2021***{: .text-blue-300}
+- All paper submissions due – ~~August 5~~ ***August 20, 2021***{: .text-red-300}
 - Notification of acceptance – ***Sep 10, 2021***{: .text-red-300}
 - Camera-ready papers due – ***September 30, 2021***{: .text-red-300}
 - Workshop – ***October 7, 2021***{: .text-red-300}
