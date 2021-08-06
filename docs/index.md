@@ -8,7 +8,9 @@ last_modified_date: July 5th 2021
 toc_list: true
 ---
 
-
+<style>
+  @font-face{font-family:agency fb bold;font-style:normal;font-weight:700;src:local('Agency FB Bold'),local('AgencyFB-Bold'),url(http://allfont.net/cache/fonts/agency-fb-bold_cee84847c4ab16cf2b0952d063712724.woff) format('woff'),url(http://allfont.net/cache/fonts/agency-fb-bold_cee84847c4ab16cf2b0952d063712724.ttf) format('truetype')}
+</style>
  
  
 # Workshop on Commonsense Reasoning and Knowledge Bases (CSKB) at AKBC 2021
