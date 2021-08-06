@@ -33,7 +33,7 @@ Recent advances in large pre-trained language models have shown that machines ca
 {: .no_toc}
 
 
-- ***Aug 5, 2021.*** The submission deadline is extended to Aug 20th, 2021.
+- ***Aug 5, 2021.*** The submission deadline is extended to ***August 20, 2021***{: .text-blue-300}.
 
 - ***July 6, 2021.*** The first version of our [call for papers](#call-for-papers) is out.
 
