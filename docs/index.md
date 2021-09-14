@@ -43,7 +43,7 @@ Recent advances in large pre-trained language models have shown that machines ca
 
 
 ### Registration  
-Please register AKBC 2021 via [this link](https://na.eventscloud.com/akbc2021){: target="_blank"} and find CSKB workshop in Day 2 Workshop options. There is no separate fee for workshop registration, the conference registration ($50 for non-students, $30 for students) will include all workshops. 
+Please register AKBC 2021 via [**this link**](https://na.eventscloud.com/akbc2021){: target="_blank"} and find CSKB workshop in **Day 2 Workshop options**. There is no separate fee for workshop registration, the conference registration (*$50 for non-students, $30 for students*) will include all workshops. 
 
 ### Important Dates
 {: .no_toc}
