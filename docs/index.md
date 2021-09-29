@@ -131,7 +131,7 @@ TBD
  
 <details markdown="block">
   <summary>
-    <a href="https://vered1986.github.io/" target="_blank"><strong><em>Vered Shwartz</em></strong></a>, Allen Institute for AI (AI2) & the University of Washington.
+    <a href="https://vered1986.github.io/" target="_blank"><strong><em>Vered Shwartz</em></strong></a>, University of British Columbia.
   </summary>
   {: .fs-3 .fw-500 .text-blue-300}
 <table><td>
