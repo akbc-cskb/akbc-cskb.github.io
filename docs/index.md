@@ -99,7 +99,7 @@ Please register AKBC 2021 via [**this link**](https://na.eventscloud.com/akbc202
 ## Invited Talks and Panel Discussion
 {:.no_toc} -->
 
-## Invited Talks
+## Talks and Panel Discussion
 ![Speakers](images/speakers.png)
 
 ### Speakers
