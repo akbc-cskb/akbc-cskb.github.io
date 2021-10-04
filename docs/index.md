@@ -340,6 +340,19 @@ In both categories, accepted papers will be published on the workshop website (n
 
 ***Submission site:***{: .text-blue-100} [https://openreview.net/group?id=AKBC.ws/2021/Workshop/CSKB](https://openreview.net/group?id=AKBC.ws/2021/Workshop/CSKB){: target="_blank"}
 
+
+---
+
+## Program Committee 
+{: .no_toc}
+
+- Faeze Brahman, University of California, Santa Cruz
+- Jack Hessel, 	Allen Institute for Artificial Intelligence 
+- Liwei Jiang, University of Washington
+- Niket Tandon, Allen Institute for Artificial Intelligence
+- Rajarshi Das, UMass
+- Tuhin Chakrabarty, 	Columbia University  
+
 ---
 
 ## Contact
