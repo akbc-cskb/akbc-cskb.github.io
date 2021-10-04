@@ -102,6 +102,9 @@ Please register AKBC 2021 via [**this link**](https://na.eventscloud.com/akbc202
 ## Invited Talks
 ![Speakers](images/speakers.png)
 
+### Speakers
+{: .no_toc}
+
 We’re excited to have the following keynote speakers at CSKB 2021:
 
 - [***Rachel Rudinger***](https://rudinger.github.io/){: target="_blank"}, University of Maryland
