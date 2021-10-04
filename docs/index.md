@@ -13,7 +13,7 @@ toc_list: true
 
   .paper_title{
     font-size: 1em;
-    color: #2869e6;
+    color: #800080;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   }
 
