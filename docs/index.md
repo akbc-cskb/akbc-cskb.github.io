@@ -10,10 +10,24 @@ toc_list: true
 
 <style>
   @font-face{font-family:agency fb bold;font-style:normal;font-weight:700;src:local('Agency FB Bold'),local('AgencyFB-Bold'),url(http://allfont.net/cache/fonts/agency-fb-bold_cee84847c4ab16cf2b0952d063712724.woff) format('woff'),url(http://allfont.net/cache/fonts/agency-fb-bold_cee84847c4ab16cf2b0952d063712724.ttf) format('truetype')}
+
+  .paper_title{
+    font-size: 1em;
+    color: #2869e6;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  }
+
+  table{
+    text-align: center;
+  }
+
+  .note{
+    margin-top: 15pt;
+  }
 </style>
  
  
-# Workshop on Commonsense Reasoning and Knowledge Bases (CSKB) at AKBC 2021
+# The First Workshop on Commonsense Reasoning and Knowledge Bases (CSKB) at AKBC 2021
 {: .fs-8 .fw-800 .text-green-300 .no_toc style="font-family: 'Agency FB Bold';"}
  
 
@@ -43,6 +57,7 @@ Recent advances in large pre-trained language models have shown that machines ca
 
 
 ### Registration  
+{: .no_toc}
 Please register AKBC 2021 via [**this link**](https://na.eventscloud.com/akbc2021){: target="_blank"} and find CSKB workshop in **Day 2 Workshop options**. There is no separate fee for workshop registration, the conference registration (*$50 for non-students, $30 for students*) will include all workshops. 
 
 ### Important Dates
@@ -55,6 +70,27 @@ Please register AKBC 2021 via [**this link**](https://na.eventscloud.com/akbc202
 
 ***All deadlines are 11.59 pm UTC -12h ("anywhere on Earth").***{: .text-blue-300}
 
+
+--- 
+
+## Program 
+
+
+| Start (PST) | End (PST) | Session |
+|-------|-------| ---------------|
+| 08:00 |	08:05 |	Opening remarks |
+| 08:05 |	08:40 |	Invited Speaker # 1 - Sara Hooker |
+| 08:40 |	09:00 |	2-minute lightning talks |
+| 09:00 |	09:35 |	Invited Speaker # 2 - Maarten Sap |
+| 09:35 |	10:05 |	Break |
+| 10:05 |	10:40 |	Invited Speaker # 3 - Rachel Rudinger |
+| 10:40 |	11:00 |	2-minute lightning talks |
+| 11:00 |	11:55 |	Panel Discussion |
+| 11:55 |	12:20 |	Break |
+| 12:20 |	12:55 |	Invited Speaker # 4 - Xiang Ren |
+| 12:55 |	13:00 | Closing Statements |
+
+---
 
 --- 
 <!-- 
@@ -85,37 +121,7 @@ We will also be holding a panel discussion with the invited speakers as well as 
 - [***Aida Nematzadeh***](http://www.aidanematzadeh.me/){: target="_blank"}, DeepMind
 
 ---
-## Call for papers 
 
-
-### Topics of Interest
-{: .no_toc}
-
-The topics of interest include, but are not limited to: 
-
-- ***Resources***{: .text-red-300}: acquiring commonsense knowledge (from text corpora, images, videos, pre-trained neural models, etc.); constructing and completing (semi-)structured CSKBs; consolidating CSKBs under unified schemas. 
-- ***Benchmarks***{: .text-red-300}: designing challenging tasks and building datasets to evaluate models' commonsense knowledge and reasoning abilities; designing new evaluation schemas and metrics for commonsense reasoning tasks, particularly for open-ended and generative tasks. 
-- ***Methods***{: .text-red-300}: methods for commonsense reasoning tasks; methods that integrate CSKBs and neural models; methods that use CSKBs to improve the interpretability and explainability of neural models for commonsense reasoning and more. 
-- ***Analysis***{: .text-red-300}: methods to probe commonsense knowledge from NLP models; methods to understand reasoning mechanisms of existing methods; methods that identify limitations of existing methods for AI applications (including but not limited to NLP, CV and robotics) due to lack of commonsense knowledge. 
-
-
-### Submission Guide
-{: .no_toc}
-We solicit two categories of papers:
-- ***Workshop papers***{: .text-red-300}: describing new, previously unpublished research in this field. The submissions should follow [***the AKBC 2021 style guidelines***](https://github.com/akbc-conference/style-files/blob/master/akbc-latex.zip?raw=true){: target="_blank"}. and contain up to 10 pages, excluding references and appendices (which should be put after references).  Submissions will be subject to a single-blind review process (i.e. they need not be anonymized). Final versions of accepted papers will be allowed 1 additional page of content so that reviewer comments can be taken into account. 
-
-- ***Published papers***{: .text-red-300}:  papers on topics relevant to the workshop theme, previously published at NLP or ML conferences. These papers can be submitted in their original formats. Submissions will be reviewed for fit to the workshop topics.
-
-In both categories, accepted papers will be published on the workshop website (note that the workshop is ***non-archival***{: .text-red-300}), and will be presented at the workshop either as a talk or a poster. 
-
-***Submission site:***{: .text-blue-100} [https://openreview.net/group?id=AKBC.ws/2021/Workshop/CSKB](https://openreview.net/group?id=AKBC.ws/2021/Workshop/CSKB){: target="_blank"}
-
-
----
-
-## Accepted Papers 
-{: .no_toc}
-TBD
 
 ---
 
@@ -169,6 +175,168 @@ Bill Yuchen Lin is a Ph.D. candidate at the University of Southern California, a
 He also initiated an online compendium of commonsense reasoning  research, which serves as a portal site for the community. He has been serving as program committee members for ACL, EMNLP, NAACL, ICLR, NeurIPS, etc.
 </td></table>
 </details> 
+
+---
+
+
+## Accepted Papers 
+
+***Please note that all papers are non-archival.***  See all information on [OpenReview](https://openreview.net/group?id=AKBC.ws/2021/Workshop/CSKB#all-submissions){: target="_blank"}.
+
+### Regular Workshop Papers
+{: .no_toc}
+
+
+<ol>
+<li class="note " data-id="9_oCNR6R9l2" data-number="7">
+        <span class=".no_toc">          <a class="paper_title" href="https://openreview.net/forum?id=9_oCNR6R9l2">Artefact Retrieval: Overview of NLP Models with Knowledge Base Access</a></span>
+        <div class="note-authors">
+          <a href="https://openreview.net/profile?id=~Vil%C3%A9m_Zouhar1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Vilém_Zouhar1">Vilém Zouhar</a>, <a href="https://openreview.net/profile?id=~Marius_Mosbach1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Marius_Mosbach1">Marius Mosbach</a>, <a href="https://openreview.net/profile?id=~Debanjali_Biswas1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Debanjali_Biswas1">Debanjali Biswas</a>, <a href="https://openreview.net/profile?id=~Dietrich_Klakow1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Dietrich_Klakow1">Dietrich Klakow</a>
+        </div>
+    </li>
+<li class="note " data-id="MvFv92fUFof" data-number="3">
+        <span class=".no_toc">          <a class="paper_title" href="https://openreview.net/forum?id=MvFv92fUFof">Retrieve, Caption, Generate: Visual Grounding for Enhancing Commonsense in Text Generation Models</a></span>
+        <div class="note-authors">
+          <a href="https://openreview.net/profile?id=~Steven_Y._Feng1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Steven_Y._Feng1">Steven Y. Feng</a>, <a href="https://openreview.net/profile?id=~Kevin_Lu3" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Kevin_Lu3">Kevin Lu</a>, <a href="https://openreview.net/profile?id=~Zhuofu_Tao1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Zhuofu_Tao1">Zhuofu Tao</a>, <a href="https://openreview.net/profile?id=~Malihe_Alikhani2" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Malihe_Alikhani2">Malihe Alikhani</a>, <a href="https://openreview.net/profile?email=teruko%40andrew.cmu.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="teruko@andrew.cmu.edu">Teruko Mitamura</a>, <a href="https://openreview.net/profile?id=~Eduard_H_Hovy1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Eduard_H_Hovy1">Eduard H Hovy</a>, <a href="https://openreview.net/profile?id=~Varun_Gangal1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Varun_Gangal1">Varun Gangal</a>
+        </div>
+    </li>
+ <li class="note " data-id="WnIpeFJgSZy" data-number="18">
+        <span class=".no_toc">          <a class="paper_title" href="https://openreview.net/forum?id=WnIpeFJgSZy">Story Generation with Commonsense Knowledge Graphs and Axioms</a></span>
+        <div class="note-authors">
+          <a href="https://openreview.net/profile?id=~Filip_Ilievski1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Filip_Ilievski1">Filip Ilievski</a>, <a href="https://openreview.net/profile?id=~Jay_Pujara1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Jay_Pujara1">Jay Pujara</a>, <a href="https://openreview.net/profile?email=hanzhizh%40usc.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="hanzhizh@usc.edu">Hanzhi Zhang</a>
+        </div>
+    </li>
+<li class="note " data-id="fn5K7VfI3MV" data-number="17">
+        <span class=".no_toc">          <a class="paper_title" href="https://openreview.net/forum?id=fn5K7VfI3MV">No Need to Know Everything! Efficiently Augmenting Language Models With External Knowledge</a></span>
+        <div class="note-authors">
+          <a href="https://openreview.net/profile?id=~Jivat_Neet_Kaur1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Jivat_Neet_Kaur1">Jivat Neet Kaur</a>, <a href="https://openreview.net/profile?id=~Sumit_Bhatia1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Sumit_Bhatia1">Sumit Bhatia</a>, <a href="https://openreview.net/profile?id=~Milan_Aggarwal2" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Milan_Aggarwal2">Milan Aggarwal</a>, <a href="https://openreview.net/profile?id=~Rachit_Bansal1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Rachit_Bansal1">Rachit Bansal</a>, <a href="https://openreview.net/profile?id=~Balaji_Krishnamurthy1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Balaji_Krishnamurthy1">Balaji Krishnamurthy</a>
+        </div>
+    </li>
+<li class="note " data-id="BigczdxQlGm" data-number="15">
+        <span class=".no_toc">          <a class="paper_title" href="https://openreview.net/forum?id=BigczdxQlGm">COPA-SSE: Semi-Structured Explanations for Commonsense Reasoning</a></span>
+        <div class="note-authors">
+          <a href="https://openreview.net/profile?id=~Ana_Brassard1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Ana_Brassard1">Ana Brassard</a>, <a href="https://openreview.net/profile?id=~Benjamin_Heinzerling1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Benjamin_Heinzerling1">Benjamin Heinzerling</a>, <a href="https://openreview.net/profile?email=pkavumba%40ecei.tohoku.ac.jp" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="pkavumba@ecei.tohoku.ac.jp">Pride Kavumba</a>, <a href="https://openreview.net/profile?id=~Kentaro_Inui1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Kentaro_Inui1">Kentaro Inui</a>
+        </div>
+    </li>
+    <li class="note " data-id="1yieqYLUIXj" data-number="14">
+        <span class=".no_toc">          <a class="paper_title" href="https://openreview.net/forum?id=1yieqYLUIXj">CoSe-Co: Sentence Conditioned Generative CommonSense Contextualizer for Language Models</a></span>
+        <div class="note-authors">
+          <a href="https://openreview.net/profile?id=~Rachit_Bansal1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Rachit_Bansal1">Rachit Bansal</a>, <a href="https://openreview.net/profile?id=~Milan_Aggarwal1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Milan_Aggarwal1">Milan Aggarwal</a>, <a href="https://openreview.net/profile?id=~Sumit_Bhatia1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Sumit_Bhatia1">Sumit Bhatia</a>, <a href="https://openreview.net/profile?id=~Jivat_Neet_Kaur1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Jivat_Neet_Kaur1">Jivat Neet Kaur</a>, <a href="https://openreview.net/profile?id=~Balaji_Krishnamurthy1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Balaji_Krishnamurthy1">Balaji Krishnamurthy</a>
+        </div>
+    </li>
+</ol>
+
+
+
+### Previously Published Papers (Extended Abstracts)
+{: .no_toc}
+
+
+<ol>    
+    <li class="note " data-id="8oKPQD2KZnA" data-number="1">
+        <span class=".no_toc">          <a class="paper_title" href="https://openreview.net/forum?id=8oKPQD2KZnA">TellMeWhy: A Dataset for Answering Why-Questions in Narratives</a></span>
+        <div class="note-authors">
+          <a href="https://openreview.net/profile?id=~Yash_Kumar_Lal2" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Yash_Kumar_Lal2">Yash Kumar Lal</a>, <a href="https://openreview.net/profile?id=~Nathanael_Chambers1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Nathanael_Chambers1">Nathanael Chambers</a>, <a href="https://openreview.net/profile?id=~Ray_Mooney1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Ray_Mooney1">Ray Mooney</a>, <a href="https://openreview.net/profile?id=~Niranjan_Balasubramanian2" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Niranjan_Balasubramanian2">Niranjan Balasubramanian</a>
+        </div>
+    </li>  
+     <li class="note " data-id="vtZzRb1471-" data-number="2">
+        <span class=".no_toc">       <a class="paper_title" href="https://openreview.net/forum?id=vtZzRb1471-">
+              Perhaps PTLMs should go to School – A Task to Assess Open Book and Closed Book QA </a></span>
+        <div class="note-authors">
+          <a href="https://openreview.net/profile?id=~Manuel_Rafael_Ciosici1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Manuel_Rafael_Ciosici1">Manuel Rafael Ciosici</a>, <a href="https://openreview.net/profile?email=cecil%40isi.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="cecil@isi.edu">Joe Cecil</a>, <a href="https://openreview.net/profile?id=~Dong-Ho_Lee1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Dong-Ho_Lee1">Dong-Ho Lee</a>, <a href="https://openreview.net/profile?id=~Alex_Hedges1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Alex_Hedges1">Alex Hedges</a>, <a href="https://openreview.net/profile?email=mrf%40isi.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="mrf@isi.edu">Marjorie Freedman</a>, <a href="https://openreview.net/profile?email=weisched%40isi.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="weisched@isi.edu">Ralph Weischedel</a>
+        </div>                
+    </li>
+    <li class="note " data-id="jsuynAVoMzn" data-number="5">
+        <span class=".no_toc">          <a class="paper_title" href="https://openreview.net/forum?id=jsuynAVoMzn">Modeling Worlds in Text</a></span>        
+        <div class="note-authors">
+          <a href="https://openreview.net/profile?id=~Prithviraj_Ammanabrolu1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Prithviraj_Ammanabrolu1">Prithviraj Ammanabrolu</a>, <a href="https://openreview.net/profile?id=~Mark_Riedl1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Mark_Riedl1">Mark Riedl</a>
+        </div>
+    </li> 
+    <li class="note " data-id="iAIP15cNLIP" data-number="16">
+        <span class=".no_toc">          <a class="paper_title" href="https://openreview.net/forum?id=iAIP15cNLIP">Like hiking? You probably enjoy nature: Persona-grounded Dialog with Commonsense Expansions</a></span>
+        <div class="note-authors">
+          <a href="https://openreview.net/profile?id=~Bodhisattwa_Prasad_Majumder1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Bodhisattwa_Prasad_Majumder1">Bodhisattwa Prasad Majumder</a>, <a href="https://openreview.net/profile?id=~Harsh_Jhamtani1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Harsh_Jhamtani1">Harsh Jhamtani</a>, <a href="https://openreview.net/profile?id=~Taylor_Berg-Kirkpatrick1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Taylor_Berg-Kirkpatrick1">Taylor Berg-Kirkpatrick</a>, <a href="https://openreview.net/profile?id=~Julian_McAuley1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Julian_McAuley1">Julian McAuley</a>
+        </div>
+    </li> 
+    <li class="note " data-id="Xh1D4dNuEp5" data-number="13">
+        <span class=".no_toc">          <a class="paper_title" href="https://openreview.net/forum?id=Xh1D4dNuEp5">Do Language Models Perform Generalizable Commonsense Inference?</a></span>
+        <div class="note-authors">
+          <a href="https://openreview.net/profile?id=~PeiFeng_Wang1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~PeiFeng_Wang1">PeiFeng Wang</a>, <a href="https://openreview.net/profile?id=~Filip_Ilievski1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Filip_Ilievski1">Filip Ilievski</a>, <a href="https://openreview.net/profile?id=~Muhao_Chen1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Muhao_Chen1">Muhao Chen</a>, <a href="https://openreview.net/profile?id=~Xiang_Ren1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Xiang_Ren1">Xiang Ren</a>
+        </div>
+    </li> 
+    <li class="note " data-id="FH_yS0ldm-E" data-number="12">
+        <span class=".no_toc">          <a class="paper_title" href="https://openreview.net/forum?id=FH_yS0ldm-E">Retrieval Enhanced Model for Commonsense Generation</a></span>
+        <div class="note-authors">
+          <a href="https://openreview.net/profile?id=~Han_Wang9" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Han_Wang9">Han Wang</a>, <a href="https://openreview.net/profile?id=~Yang_Liu50" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Yang_Liu50">Yang Liu</a>, <a href="https://openreview.net/profile?id=~Chenguang_Zhu1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Chenguang_Zhu1">Chenguang Zhu</a>, <a href="https://openreview.net/profile?id=~Linjun_Shou1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Linjun_Shou1">Linjun Shou</a>, <a href="https://openreview.net/profile?id=~MING_GONG2" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~MING_GONG2">MING GONG</a>, <a href="https://openreview.net/profile?id=~Yichong_Xu1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Yichong_Xu1">Yichong Xu</a>, <a href="https://openreview.net/profile?id=~Michael_Zeng1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Michael_Zeng1">Michael Zeng</a>
+        </div>
+        </li>
+    <li class="note " data-id="pFRIXhSiJpq" data-number="10">
+        <span class=".no_toc">          <a class="paper_title" href="https://openreview.net/forum?id=KFcjxSNdMBq">Prompting Contrastive Explanations for Commonsense Reasoning Tasks</a></span>
+        <div class="note-authors">
+          <a href="https://openreview.net/profile?id=~Bhargavi_Paranjape1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Bhargavi_Paranjape1">Bhargavi Paranjape</a>, <a href="https://openreview.net/profile?id=~Julian_Michael1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Julian_Michael1">Julian Michael</a>, <a href="https://openreview.net/profile?id=~Marjan_Ghazvininejad1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Marjan_Ghazvininejad1">Marjan Ghazvininejad</a>, <a href="https://openreview.net/profile?id=~Hannaneh_Hajishirzi1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Hannaneh_Hajishirzi1">Hannaneh Hajishirzi</a>, <a href="https://openreview.net/profile?id=~Luke_Zettlemoyer1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Luke_Zettlemoyer1">Luke Zettlemoyer</a>
+        </div>
+    </li>
+    <li class="note " data-id="pFRIXhSiJpq" data-number="10">
+        <span class=".no_toc">          <a class="paper_title" href="https://openreview.net/forum?id=pFRIXhSiJpq">COM2SENSE: A Commonsense Reasoning Benchmark with Complementary Sentences</a></span>
+        <div class="note-authors">
+          <a href="https://openreview.net/profile?id=~Shikhar_Singh1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Shikhar_Singh1">Shikhar Singh</a>, <a href="https://openreview.net/profile?email=nuanwen%40usc.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="nuanwen@usc.edu">Nuan Wen</a>, <a href="https://openreview.net/profile?email=houyu%40usc.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="houyu@usc.edu">Yu Hou</a>, <a href="https://openreview.net/profile?email=palipoor976%40gmail.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="palipoor976@gmail.com">Pegah Alipoormolabashi</a>, <a href="https://openreview.net/profile?email=telinwu%40cs.ucla.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="telinwu@cs.ucla.edu">Te-Lin Wu</a>, <a href="https://openreview.net/profile?id=~Xuezhe_Ma1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Xuezhe_Ma1">Xuezhe Ma</a>, <a href="https://openreview.net/profile?id=~Nanyun_Peng1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Nanyun_Peng1">Nanyun Peng</a>
+        </div> 
+    </li>
+    <li class="note " data-id="jnIiy6AGUmo" data-number="9">
+        <span class=".no_toc">          <a class="paper_title" href="https://openreview.net/forum?id=jnIiy6AGUmo">Fusing Context Into Knowledge Graph for Commonsense Question Answering</a></span>
+        <div class="note-authors">
+          <a href="https://openreview.net/profile?id=~Yichong_Xu1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Yichong_Xu1">Yichong Xu</a>, <a href="https://openreview.net/profile?id=~Chenguang_Zhu1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Chenguang_Zhu1">Chenguang Zhu</a>, <a href="https://openreview.net/profile?id=~Ruochen_Xu2" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Ruochen_Xu2">Ruochen Xu</a>, <a href="https://openreview.net/profile?id=~Yang_Liu50" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Yang_Liu50">Yang Liu</a>, <a href="https://openreview.net/profile?id=~Michael_Zeng1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Michael_Zeng1">Michael Zeng</a>, <a href="https://openreview.net/profile?email=xdh%40microsoft.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="xdh@microsoft.com">Xuedong Huang</a>
+        </div> 
+    </li>
+    <li class="note " data-id="8REVPGZVsP" data-number="8">
+        <span class=".no_toc">          <a class="paper_title" href="https://openreview.net/forum?id=8REVPGZVsP">Explanations for CommonsenseQA: New Dataset and Models</a></span>
+        <div class="note-authors">
+          <a href="https://openreview.net/profile?id=~Shourya_Aggarwal1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Shourya_Aggarwal1">Shourya Aggarwal</a>, <a href="https://openreview.net/profile?id=~Divyanshu_Mandowara1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Divyanshu_Mandowara1">Divyanshu Mandowara</a>, <a href="https://openreview.net/profile?email=vishwa.grawal%40gmail.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="vishwa.grawal@gmail.com">Vishwajeet Agrawal</a>, <a href="https://openreview.net/profile?id=~Dinesh_Khandelwal2" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Dinesh_Khandelwal2">Dinesh Khandelwal</a>, <a href="https://openreview.net/profile?id=~Parag_Singla1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Parag_Singla1">Parag Singla</a>, <a href="https://openreview.net/profile?id=~Dinesh_Garg1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Dinesh_Garg1">Dinesh Garg</a>
+        </div>
+    </li>
+    <li class="note " data-id="T9FwSfwA2Li" data-number="6">
+        <span class=".no_toc">          <a class="paper_title" href="https://openreview.net/forum?id=T9FwSfwA2Li">On Commonsense Cues in BERT for Solving Commonsense Tasks</a></span>
+        <div class="note-authors">
+          <a href="https://openreview.net/profile?id=~Leyang_Cui1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Leyang_Cui1">Leyang Cui</a>, <a href="https://openreview.net/profile?id=~Sijie_Cheng1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Sijie_Cheng1">Sijie Cheng</a>, <a href="https://openreview.net/profile?email=wu.yu%40microsoft.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="wu.yu@microsoft.com">Yu Wu</a>, <a href="https://openreview.net/profile?email=yue.zhang%40wias.org.cn" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="yue.zhang@wias.org.cn">Yue Zhang</a>
+        </div>
+    </li>
+    <li class="note " data-id="pFRIXhSiJpq" data-number="10">
+        <span class=".no_toc">          <a class="paper_title" href="https://openreview.net/forum?id=wOhNz5kDWZ">Could you give me a hint? Generating inference graphs for defeasible reasoning</a></span>
+        <div class="note-authors">
+          <a href="https://openreview.net/profile?id=~Aman_Madaan1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Aman_Madaan1">Aman Madaan</a>, <a href="https://openreview.net/profile?id=~Dheeraj_Rajagopal1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Dheeraj_Rajagopal1">Dheeraj Rajagopal</a>, <a href="https://openreview.net/profile?id=~Niket_Tandon2" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Niket_Tandon2">Niket Tandon</a>, <a href="https://openreview.net/profile?id=~Yiming_Yang1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Yiming_Yang1">Yiming Yang</a>, <a href="https://openreview.net/profile?id=~Eduard_H_Hovy1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Eduard_H_Hovy1">Eduard H Hovy</a>
+        </div>
+    </li>
+</ol>
+
+
+
+
+---
+
+## Call for papers 
+
+
+### Topics of Interest
+{: .no_toc}
+
+The topics of interest include, but are not limited to: 
+
+- ***Resources***{: .text-red-300}: acquiring commonsense knowledge (from text corpora, images, videos, pre-trained neural models, etc.); constructing and completing (semi-)structured CSKBs; consolidating CSKBs under unified schemas. 
+- ***Benchmarks***{: .text-red-300}: designing challenging tasks and building datasets to evaluate models' commonsense knowledge and reasoning abilities; designing new evaluation schemas and metrics for commonsense reasoning tasks, particularly for open-ended and generative tasks. 
+- ***Methods***{: .text-red-300}: methods for commonsense reasoning tasks; methods that integrate CSKBs and neural models; methods that use CSKBs to improve the interpretability and explainability of neural models for commonsense reasoning and more. 
+- ***Analysis***{: .text-red-300}: methods to probe commonsense knowledge from NLP models; methods to understand reasoning mechanisms of existing methods; methods that identify limitations of existing methods for AI applications (including but not limited to NLP, CV and robotics) due to lack of commonsense knowledge. 
+
+
+### Submission Guide
+{: .no_toc}
+We solicit two categories of papers:
+- ***Workshop papers***{: .text-red-300}: describing new, previously unpublished research in this field. The submissions should follow [***the AKBC 2021 style guidelines***](https://github.com/akbc-conference/style-files/blob/master/akbc-latex.zip?raw=true){: target="_blank"}. and contain up to 10 pages, excluding references and appendices (which should be put after references).  Submissions will be subject to a single-blind review process (i.e. they need not be anonymized). Final versions of accepted papers will be allowed 1 additional page of content so that reviewer comments can be taken into account. 
+
+- ***Published papers***{: .text-red-300}:  papers on topics relevant to the workshop theme, previously published at NLP or ML conferences. These papers can be submitted in their original formats. Submissions will be reviewed for fit to the workshop topics.
+
+In both categories, accepted papers will be published on the workshop website (note that the workshop is ***non-archival***{: .text-red-300}), and will be presented at the workshop either as a talk or a poster. 
+
+***Submission site:***{: .text-blue-100} [https://openreview.net/group?id=AKBC.ws/2021/Workshop/CSKB](https://openreview.net/group?id=AKBC.ws/2021/Workshop/CSKB){: target="_blank"}
 
 ---
 
