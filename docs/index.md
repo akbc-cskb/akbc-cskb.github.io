@@ -49,6 +49,8 @@ Recent advances in large pre-trained language models have shown that machines ca
 {: .no_toc}
 
 
+- ***Oct 1, 2021*** The program and the accepted papers are updated. 
+
 - ***Spet 14, 2021*** Online registration of AKBC 2021 is now open! Please register [here](https://na.eventscloud.com/akbc2021){: target="_blank"}.
 
 - ***Aug 5, 2021.*** The submission deadline is extended to ***August 20, 2021***{: .text-blue-300}.
