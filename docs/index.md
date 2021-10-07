@@ -115,7 +115,7 @@ We’re excited to have the following keynote speakers at CSKB 2021:
 
 <details markdown="block">
   <summary>
-    <a href="https://rudinger.github.io/" target="_blank"><strong><em>Rachel Rudinger</em></strong></a>, University of Maryland. <br> &nbsp;&nbsp;&nbsp;&nbsp; <em>When Pigs Fly and Birds Don’t: Exploring Defeasible Inference in Natural Language</em>
+    <a href="https://rudinger.github.io/" target="_blank"><strong><em>Rachel Rudinger</em></strong></a>, University of Maryland. <br> &nbsp;&nbsp;&nbsp;&nbsp; <span class="text-red-300">When Pigs Fly and Birds Don’t: Exploring Defeasible Inference in Natural Language</span>
   </summary>
   {: .fs-3 .fw-500 .text-blue-300}
 <table>
@@ -129,9 +129,11 @@ We’re excited to have the following keynote speakers at CSKB 2021:
 </table>
 </details> 
 
+<span></span>
+
 <details markdown="block">
   <summary>
-    <a href="https://www.sarahooker.me/" target="_blank"><strong><em>Sara Hooker</em></strong></a>, Google Brain. <br> &nbsp;&nbsp;&nbsp;&nbsp; <em>TBD</em>
+    <a href="https://www.sarahooker.me/" target="_blank"><strong><em>Sara Hooker</em></strong></a>, Google Brain. <br> &nbsp;&nbsp;&nbsp;&nbsp; <span class="text-red-300">TBD</span>
   </summary>
   {: .fs-3 .fw-500 .text-blue-300}
 <table>
@@ -144,11 +146,12 @@ We’re excited to have the following keynote speakers at CSKB 2021:
 </td></tr>
 </table>
 </details> 
- 
+
+<span></span> 
 
 <details markdown="block">
   <summary>
-    <a href="https://homes.cs.washington.edu/~msap/" target="_blank"><strong><em>Maarten Sap</em></strong></a>, Allen Institute for AI (AI2) & CMU. <br> &nbsp;&nbsp;&nbsp;&nbsp; <em> Positive AI with Social Commonsense Models </em>
+    <a href="https://homes.cs.washington.edu/~msap/" target="_blank"><strong><em>Maarten Sap</em></strong></a>, Allen Institute for AI (AI2) & CMU. <br> &nbsp;&nbsp;&nbsp;&nbsp; <span class="text-red-300"> Positive AI with Social Commonsense Models </span>
   </summary>
   {: .fs-3 .fw-500 .text-blue-300}
 <table>
@@ -165,10 +168,11 @@ He received his PhD from the University of Washington's Paul G. Allen School of 
 </table>
 </details> 
 
+<span></span>
 
 <details markdown="block">
   <summary>
-    <a href="http://ink-ron.usc.edu/xiangren/" target="_blank"><strong><em>Xiang Ren</em></strong></a>, University of Southern California. <br> &nbsp;&nbsp;&nbsp;&nbsp; <em>Commonsense Reasoning in the Wild</em>
+    <a href="http://ink-ron.usc.edu/xiangren/" target="_blank"><strong><em>Xiang Ren</em></strong></a>, University of Southern California. <br> &nbsp;&nbsp;&nbsp;&nbsp; <span class="text-red-300">Commonsense Reasoning in the Wild</span>
   </summary>
   {: .fs-3 .fw-500 .text-blue-300}
 <table>
