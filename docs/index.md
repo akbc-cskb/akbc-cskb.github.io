@@ -21,6 +21,9 @@ toc_list: true
     text-align: center;
   }
 
+  .bio{
+    text-align: left;
+  }
   .note{
     margin-top: 15pt;
   }
@@ -84,13 +87,13 @@ The workshop will be held over Zoom. Get the Zoom link from the [***AKBC worksho
 | 08:00 |	08:05 |	Opening remarks |
 | 08:05 |	08:40 |	Invited Speaker # 1 - ***Sara Hooker*** |
 | 08:40 |	09:00 |	2-minute lightning talks <br> (Paper ids: [2, 3, 4, 6, 7, 8, 14, 15, 17]) |
-| 09:00 |	09:35 |	Invited Speaker # 2 - ***Maarten Sap*** |
+| 09:00 |	09:35 |	Invited Speaker # 2 - ***Maarten Sap***  <br> ***Positive AI with Social Commonsense Models***{: .text-red-100}|
 | 09:35 |	10:05 |	Break |
-| 10:05 |	10:40 |	Invited Speaker # 3 - ***Rachel Rudinger*** |
+| 10:05 |	10:40 |	Invited Speaker # 3 - ***Rachel Rudinger*** <br> ***When Pigs Fly and Birds Don’t: <br> Exploring Defeasible Inference in Natural Language***{: .text-red-100} |
 | 10:40 |	11:00 |	2-minute lightning talks  <br>  (Paper ids: [1, 5, 9, 10, 11, 12, 13, 16, 18])|
 | 11:00 |	11:55 |	Panel Discussion |
 | 11:55 |	12:20 |	Break |
-| 12:20 |	12:55 |	Invited Speaker # 4 - ***Xiang Ren*** |
+| 12:20 |	12:55 |	Invited Speaker # 4 - ***Xiang Ren*** <br> ***Commonsense Reasoning in the Wild***{: .text-red-100} |
 | 12:55 |	13:00 | Closing Statements |
 
 ---
@@ -108,10 +111,75 @@ The workshop will be held over Zoom. Get the Zoom link from the [***AKBC worksho
 
 We’re excited to have the following keynote speakers at CSKB 2021:
 
-- [***Rachel Rudinger***](https://rudinger.github.io/){: target="_blank"}, University of Maryland
-- [***Sara Hooker***](https://www.sarahooker.me/){: target="_blank"}, Google Brain  
-- [***Maarten Sap***](https://homes.cs.washington.edu/~msap/){: target="_blank"}, Allen Institute for AI (AI2) & CMU
-- [***Xiang Ren***](http://ink-ron.usc.edu/xiangren/){: target="_blank"}, University of Southern California
+ 
+
+<details markdown="block">
+  <summary>
+    <a href="https://rudinger.github.io/" target="_blank"><strong><em>Rachel Rudinger</em></strong></a>, University of Maryland. <br> &nbsp;&nbsp;&nbsp;&nbsp; <em>When Pigs Fly and Birds Don’t: Exploring Defeasible Inference in Natural Language</em>
+  </summary>
+  {: .fs-3 .fw-500 .text-blue-300}
+<table>
+<tr><td class="bio">
+<strong>Abstract:</strong> Rachel Rudinger is an Assistant Professor of Computer Science at the University of Maryland, College Park. Her research focuses on acquisition of commonsense knowledge through language and the concomitant issue of social biases and stereotyping in NLP technology. She earned her Ph.D. in Computer Science from Johns Hopkins University in 2019, where she was a founding member of the Decompositional Semantics Initiative. From 2019-2020, she was a Young Investigator at the Allen Institute for AI in Seattle.
+</td></tr>
+<tr><td class="bio">
+<strong>Bio:</strong> Vered Shwartz is a postdoctoral researcher at the Allen Institute for AI (AI2) and the Paul G. Allen School of Computer Science & Engineering at the University of Washington. She will join the Department of Computer Science at the University of British Columbia as an Assistant Professor in fall 2021. Her research interests include computational semantics and pragmatics, and commonsense reasoning. She co-organized the ACL 2018 Student Research Workshop, the SemEval 2018 shared task on hypernymy discovery, the AAAI 2020 Workshop on Reasoning for Complex Question Answering (Special Edition on Commonsense Reasoning), and the EMNLP 2020 workshop on Simple and Efficient NLP, and co-instructed the ACL 2020 tutorial on commonsense reasoning.
+</td></tr>
+</table>
+</details> 
+
+<details markdown="block">
+  <summary>
+    <a href="https://www.sarahooker.me/" target="_blank"><strong><em>Sara Hooker</em></strong></a>, Google Brain. <br> &nbsp;&nbsp;&nbsp;&nbsp; <em>TBD</em>
+  </summary>
+  {: .fs-3 .fw-500 .text-blue-300}
+<table>
+<tr><td class="bio">
+<strong>Abstract: TBD</strong> 
+</td></tr>
+<tr><td class="bio">
+<strong>Bio: TBD</strong> 
+</td></tr>
+</table>
+</details> 
+ 
+
+<details markdown="block">
+  <summary>
+    <a href="https://homes.cs.washington.edu/~msap/" target="_blank"><strong><em>Maarten Sap</em></strong></a>, Allen Institute for AI (AI2) & CMU. <br> &nbsp;&nbsp;&nbsp;&nbsp; <em> Positive AI with Social Commonsense Models </em>
+  </summary>
+  {: .fs-3 .fw-500 .text-blue-300}
+<table>
+<tr><td class="bio">
+<strong>Abstract:</strong> To effectively understand language and safely communicate with humans, machines must not only grasp the surface meanings of texts, but also their underlying social meaning. This requires understanding interpersonal social commonsense, such as knowing to thank someone for giving you a present, as well as understanding harmful social biases and stereotypes. Failure to account for these social and power dynamics could cause models to produce redundant, rude, or even harmful outputs.
+In this talk, I will describe my research on enabling machines to reason about social dynamics and social biases in text. I will first discuss ATOMIC, the first large-scale knowledge graph of social and interpersonal commonsense knowledge, with which machines can be taught to reason about the causes and effects of everyday events. Then, I will show how we can make machines understand and detect social biases in language, using Social Bias Frames, a new structured formalism for distilling biased implications of language.
+I will conclude with future research directions on making NLP systems more socially-aware and equitable, and how to use language technologies for positive societal impact.
+</td></tr>
+<tr><td class="bio">
+<strong>Bio:</strong> Maarten Sap is a postdoc/young investigator at the Allen Institute for AI (AI2) on project MOSAIC, and will join CMU's LTI department as an assistant professor in Fall 2022. His research focuses on making NLP systems socially intelligent, and understanding social inequality and bias in language. He has presented his work in top-tier NLP and AI conferences, receiving a best short paper nomination at ACL 2019 and a best paper award at the WeCNLP 2020 summit. Additionally, he and his team won the inaugural 2017 Amazon Alexa Prize, a social chatbot competition.
+He received his PhD from the University of Washington's Paul G. Allen School of Computer Science & Engineering where he was advised by Yejin Choi and Noah Smith. In the past, he has interned at the Allen Institute for AI working on social commonsense reasoning, and at Microsoft Research working on deep learning models for understanding human cognition.
+</td></tr>
+</table>
+</details> 
+
+
+<details markdown="block">
+  <summary>
+    <a href="http://ink-ron.usc.edu/xiangren/" target="_blank"><strong><em>Xiang Ren</em></strong></a>, University of Southern California. <br> &nbsp;&nbsp;&nbsp;&nbsp; <em>Commonsense Reasoning in the Wild</em>
+  </summary>
+  {: .fs-3 .fw-500 .text-blue-300}
+<table>
+<tr><td class="bio">
+<strong>Abstract:</strong>  Current NLP systems can answer commonsense questions or write fluent stories that produce impressive scores on benchmark datasets. However, most of the progress are evaluated using static, closed-domain datasets created for individual tasks. To deploy commonsense reasoning services in the wild, we need systems that can generate answers in an open-ended way, can perform robust logical reasoning, and can generalize across diverse task formats, domains, and datasets. In this talk I will share three pieces of work which introduce new formulation of commonsense reasoning challenges as well as novel evaluation protocols, to address the above issues. We look to encourage more efforts on proposing "dynamic", general-purpose commonsense reasoning challenges to evaluate the progress.
+</td></tr>
+<tr><td class="bio">
+<strong>Bio:</strong> Xiang Ren is an assistant professor at the USC Computer Science Department, a Research Team Leader at USC ISI, and the PI of the Intelligence and Knowledge Discovery (INK) Lab at USC. Priorly, he spent time as a research scholar at the Stanford NLP group and received his Ph.D. in Computer Science from the University of Illinois Urbana-Champaign. Dr. Ren works on knowledge acquisition and reasoning in natural language processing, with focuses on developing human-centered and label-efficient computational methods for building trustworthy NLP systems. He received NSF CAREER Award, The Web Conference Best Paper runner-up, ACM SIGKDD Doctoral Dissertation Award, and several research awards from Google, Amazon, JP Morgan, Sony, and Snapchat. He was named Forbes' Asia 30 Under 30 in 2019.
+</td></tr>
+</table>
+</details> 
+
+
+
 
 <!-- Abstracts will be added here. -->
 
@@ -146,7 +214,7 @@ We will also be holding a panel discussion with the invited speakers as well as 
     <a href="https://vered1986.github.io/" target="_blank"><strong><em>Vered Shwartz</em></strong></a>, University of British Columbia.
   </summary>
   {: .fs-3 .fw-500 .text-blue-300}
-<table><td>
+<table><td class="bio">
 Vered Shwartz is a postdoctoral researcher at the Allen Institute for AI (AI2) and the Paul G. Allen School of Computer Science & Engineering at the University of Washington. She will join the Department of Computer Science at the University of British Columbia as an Assistant Professor in fall 2021. Her research interests include computational semantics and pragmatics, and commonsense reasoning. She co-organized the ACL 2018 Student Research Workshop, the SemEval 2018 shared task on hypernymy discovery, the AAAI 2020 Workshop on Reasoning for Complex Question Answering (Special Edition on Commonsense Reasoning), and the EMNLP 2020 workshop on Simple and Efficient NLP, and co-instructed the ACL 2020 tutorial on commonsense reasoning.
 </td></table>
 </details> 
@@ -156,7 +224,7 @@ Vered Shwartz is a postdoctoral researcher at the Allen Institute for AI (AI2) a
     <a href="https://atcbosselut.github.io/" target="_blank"><strong><em>Antoine Bosselut</em></strong></a>, Stanford University & EPFL.
   </summary>
   {: .fs-3 .fw-500 .text-blue-300}
-<table><td>
+<table><td  class="bio">
 Antoine Bosselut is a postdoctoral researcher at Stanford University and at the Allen Institute for AI (AI2). He will join the School of Computer and Communication Sciences at EPFL as an Assistant Professor in Fall 2021. His research interests are in the intersection of knowledge representation, reasoning, and NLP. He organized the West Coast NLP (WeCNLP) from 2018 to 2020, the NeuralGen workshop at NAACL 2019, the GEM workshop at ACL 2021, and co-instructed the ACL 2020 tutorial on commonsense reasoning, the EMNLP 2020 tutorial on neural text generation, and the AAAI 2021 tutorial on commonsense reasoning.
 </td></table>
 </details> 
@@ -166,7 +234,7 @@ Antoine Bosselut is a postdoctoral researcher at Stanford University and at the 
     <a href="https://people.cs.umass.edu/~xiangl/" target="_blank"><strong><em>Xiang Lorraine Li</em></strong></a>, UMass Amherst.
   </summary>
   {: .fs-3 .fw-500 .text-blue-300}
-<table><td>
+<table><td  class="bio">
 Xiang Lorraine Li is a Ph.D. student at UMass Amherst advised by Andrew McCallum. Previously, she completed her Master's from the University of Chicago while researching with Kevin Gimpel at TTIC. Her research interest mainly lies in learning efficient commonsense knowledge representations with specific build-in model biases (e.g., transitivity bias of Is-A relations) and examining commonsense knowledge in large language models. She serves as a program committee (reviewer) for multiple conferences and workshops, including AKBC, EMNLP, ACL, AAAI, etc. 
 </td></table>
 </details> 
@@ -176,7 +244,7 @@ Xiang Lorraine Li is a Ph.D. student at UMass Amherst advised by Andrew McCallum
     <a href="https://yuchenlin.xyz/" target="_blank"><strong><em>Bill Yuchen Lin</em></strong></a>, University of Southern California.
   </summary>
   {: .fs-3 .fw-500 .text-blue-300}
-<table><td>
+<table><td  class="bio">
 Bill Yuchen Lin is a Ph.D. candidate at the University of Southern California, advised by Prof. Xiang Ren. His research goal is to teach machines to think, talk, and act with commonsense knowledge and commonsense reasoning ability like humans do. Towards this ultimate goal, he has been developing knowledge-aware reasoning methods (e.g., KagNet, MHGRN, DrFact) and constructing benchmark datasets (e.g., CommonGen and RiddleSense).
 He also initiated an online compendium of commonsense reasoning  research, which serves as a portal site for the community. He has been serving as program committee members for ACL, EMNLP, NAACL, ICLR, NeurIPS, etc.
 </td></table>
