@@ -85,7 +85,7 @@ The workshop will be held over Zoom. Get the Zoom link from the [***AKBC worksho
 | Start (PST) | End (PST) | Session |
 |-------|-------| ---------------|
 | 08:00 |	08:05 |	Opening remarks |
-| 08:05 |	08:40 |	Invited Speaker # 1 - ***Sara Hooker*** |
+| 08:05 |	08:40 |	Invited Speaker # 1 - ***Sara Hooker***  <br> ***TBD***{: .text-red-100} |
 | 08:40 |	09:00 |	2-minute lightning talks <br> (Paper ids: [2, 3, 4, 6, 7, 8, 14, 15, 17]) |
 | 09:00 |	09:35 |	Invited Speaker # 2 - ***Maarten Sap***  <br> ***Positive AI with Social Commonsense Models***{: .text-red-100}|
 | 09:35 |	10:05 |	Break |
@@ -119,6 +119,7 @@ We’re excited to have the following keynote speakers at CSKB 2021:
   </summary>
   {: .fs-3 .fw-500 .text-blue-300}
 <table>
+<tr><td class="bio"> <b>Homepage:</b> <a href="https://rudinger.github.io/" target="_blank"> https://rudinger.github.io/</a></td></tr>
 <tr><td class="bio">
 <strong>Abstract:</strong> Rachel Rudinger is an Assistant Professor of Computer Science at the University of Maryland, College Park. Her research focuses on acquisition of commonsense knowledge through language and the concomitant issue of social biases and stereotyping in NLP technology. She earned her Ph.D. in Computer Science from Johns Hopkins University in 2019, where she was a founding member of the Decompositional Semantics Initiative. From 2019-2020, she was a Young Investigator at the Allen Institute for AI in Seattle.
 </td></tr>
@@ -134,6 +135,7 @@ We’re excited to have the following keynote speakers at CSKB 2021:
   </summary>
   {: .fs-3 .fw-500 .text-blue-300}
 <table>
+<tr><td class="bio"> <b>Homepage:</b> <a href="https://www.sarahooker.me/" target="_blank"> https://www.sarahooker.me/</a></td></tr>
 <tr><td class="bio">
 <strong>Abstract: TBD</strong> 
 </td></tr>
@@ -150,6 +152,7 @@ We’re excited to have the following keynote speakers at CSKB 2021:
   </summary>
   {: .fs-3 .fw-500 .text-blue-300}
 <table>
+<tr><td class="bio"> <b>Homepage:</b> <a href="https://homes.cs.washington.edu/~msap/" target="_blank"> https://homes.cs.washington.edu/~msap/</a></td></tr>
 <tr><td class="bio">
 <strong>Abstract:</strong> To effectively understand language and safely communicate with humans, machines must not only grasp the surface meanings of texts, but also their underlying social meaning. This requires understanding interpersonal social commonsense, such as knowing to thank someone for giving you a present, as well as understanding harmful social biases and stereotypes. Failure to account for these social and power dynamics could cause models to produce redundant, rude, or even harmful outputs.
 In this talk, I will describe my research on enabling machines to reason about social dynamics and social biases in text. I will first discuss ATOMIC, the first large-scale knowledge graph of social and interpersonal commonsense knowledge, with which machines can be taught to reason about the causes and effects of everyday events. Then, I will show how we can make machines understand and detect social biases in language, using Social Bias Frames, a new structured formalism for distilling biased implications of language.
@@ -169,6 +172,7 @@ He received his PhD from the University of Washington's Paul G. Allen School of 
   </summary>
   {: .fs-3 .fw-500 .text-blue-300}
 <table>
+<tr><td class="bio"> <b>Homepage:</b> <a href="http://ink-ron.usc.edu/xiangren/" target="_blank"> http://ink-ron.usc.edu/xiangren/</a></td></tr>
 <tr><td class="bio">
 <strong>Abstract:</strong>  Current NLP systems can answer commonsense questions or write fluent stories that produce impressive scores on benchmark datasets. However, most of the progress are evaluated using static, closed-domain datasets created for individual tasks. To deploy commonsense reasoning services in the wild, we need systems that can generate answers in an open-ended way, can perform robust logical reasoning, and can generalize across diverse task formats, domains, and datasets. In this talk I will share three pieces of work which introduce new formulation of commonsense reasoning challenges as well as novel evaluation protocols, to address the above issues. We look to encourage more efforts on proposing "dynamic", general-purpose commonsense reasoning challenges to evaluate the progress.
 </td></tr>
