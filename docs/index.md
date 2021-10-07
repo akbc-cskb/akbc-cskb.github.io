@@ -77,6 +77,7 @@ Please register AKBC 2021 via [**this link**](https://na.eventscloud.com/akbc202
 
 ## Program 
 
+The workshop will be held over Zoom. Get the Zoom link from the [AKBC workshops page](https://akbc.apps.allenai.org/workshops.html#day2).
 
 | Start (PST) | End (PST) | Session |
 |-------|-------| ---------------|
