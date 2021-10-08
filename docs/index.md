@@ -85,11 +85,11 @@ The workshop will be held over Zoom. Get the Zoom link from the [***AKBC worksho
 | Start (PST) | End (PST) | Session |
 |-------|-------| ---------------|
 | 08:00 |	08:05 |	Opening remarks |
-| 08:05 |	08:40 |	Invited Speaker # 1 - ***Sara Hooker***  <br> ***TBD***{: .text-red-100} |
+| 08:05 |	08:40 |	Invited Speaker # 1 -  ***Rachel Rudinger*** <br> ***When Pigs Fly and Birds Don’t: <br> Exploring Defeasible Inference in Natural Language***{: .text-red-100} |
 | 08:40 |	09:00 |	2-minute lightning talks <br> (Paper ids: [2, 3, 4, 6, 7, 8, 14, 15, 17]) |
 | 09:00 |	09:35 |	Invited Speaker # 2 - ***Maarten Sap***  <br> ***Positive AI with Social Commonsense Models***{: .text-red-100}|
 | 09:35 |	10:05 |	Break |
-| 10:05 |	10:40 |	Invited Speaker # 3 - ***Rachel Rudinger*** <br> ***When Pigs Fly and Birds Don’t: <br> Exploring Defeasible Inference in Natural Language***{: .text-red-100} |
+| 10:05 |	10:40 |	Invited Speaker # 3 - ***Sara Hooker***  <br> ***What can compression tell us about generalization?***{: .text-red-100} |
 | 10:40 |	11:00 |	2-minute lightning talks  <br>  (Paper ids: [1, 5, 9, 10, 11, 12, 13, 16, 18])|
 | 11:00 |	11:55 |	Panel Discussion |
 | 11:55 |	12:20 |	Break |
@@ -133,7 +133,7 @@ We’re excited to have the following keynote speakers at CSKB 2021:
 
 <details markdown="block">
   <summary>
-    <a href="https://www.sarahooker.me/" target="_blank"><strong><em>Sara Hooker</em></strong></a>, Google Brain. <br> &nbsp;&nbsp;&nbsp;&nbsp; <span class="text-red-300">TBD</span>
+    <a href="https://www.sarahooker.me/" target="_blank"><strong><em>Sara Hooker</em></strong></a>, Google Brain. <br> &nbsp;&nbsp;&nbsp;&nbsp; <span class="text-red-300">What can compression tell us about generalization? </span>
   </summary>
   {: .fs-3 .fw-500 .text-blue-300}
 <table>
@@ -142,7 +142,7 @@ We’re excited to have the following keynote speakers at CSKB 2021:
 <strong>Abstract: TBD</strong> 
 </td></tr>
 <tr><td class="bio">
-<strong>Bio: TBD</strong> 
+<strong>Bio: Sara Hooker is a research scientist at Google Brain doing deep learning research on training models beyond test-set accuracy to fulfill multiple criteria. Her main research interests gravitate towards interpretability, model compression and security as well as the impact of design choices like hardware and randomness on generalization behavior. She is one of the founding organizers of the Trustworthy ML Initiative. In 2014, she founded Delta Analytics, a non-profit dedicated to bringing technical capacity to help non-profits across the world use machine learning for good. </strong> 
 </td></tr>
 </table>
 </details> 
