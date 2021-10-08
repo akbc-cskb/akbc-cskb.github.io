@@ -142,7 +142,7 @@ We’re excited to have the following keynote speakers at CSKB 2021:
 <strong>Abstract: TBD</strong> 
 </td></tr>
 <tr><td class="bio">
-<strong>Bio: Sara Hooker is a research scientist at Google Brain doing deep learning research on training models beyond test-set accuracy to fulfill multiple criteria. Her main research interests gravitate towards interpretability, model compression and security as well as the impact of design choices like hardware and randomness on generalization behavior. She is one of the founding organizers of the Trustworthy ML Initiative. In 2014, she founded Delta Analytics, a non-profit dedicated to bringing technical capacity to help non-profits across the world use machine learning for good. </strong> 
+<strong>Bio: </strong>  Sara Hooker is a research scientist at Google Brain doing deep learning research on training models beyond test-set accuracy to fulfill multiple criteria. Her main research interests gravitate towards interpretability, model compression and security as well as the impact of design choices like hardware and randomness on generalization behavior. She is one of the founding organizers of the Trustworthy ML Initiative. In 2014, she founded Delta Analytics, a non-profit dedicated to bringing technical capacity to help non-profits across the world use machine learning for good. 
 </td></tr>
 </table>
 </details> 
